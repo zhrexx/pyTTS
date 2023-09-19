@@ -7,21 +7,30 @@ def __init__(self):
 
 
 def load(model_file_name):
-  with open(model_file_name,"rb") as md:
-    md.read()
+  try:
+      with open(model_file_name,"rb") as md:
+         md.read()
+  except:
+    self.generation = False
     
       
 
 def text(text):
-  with open("textogen.txt","w") as tx:
-    tx.write(text)
+  if self.generation == True:
+      with open("textogen.txt","w") as tx:
+         tx.write(text)
+  else:
+    
   
    
 
 def generate_speech(self):
+  if self.generation == True:
+    
+    else:
+      print("Error 909")
   pass
 
 
-def error(self):
-  self.generation = False
+
   
