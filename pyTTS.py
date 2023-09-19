@@ -15,9 +15,9 @@ class SpeechGenerator:
         else:
             print("Error 909")
 
-# Example usage:
+inp = input("Print the Text : ")
 generator = SpeechGenerator()
-generator.text_to_speech("Hello, this is a test.")
+generator.text_to_speech(inp)
 
   
 
