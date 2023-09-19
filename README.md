@@ -2,7 +2,7 @@
 
 <h2>Install a model from my other repos:</h2>
            
-  [tts-model-main](https://github.com/zhrexx/tts-model-main/)
+ <font color="red">[tts-model-main](https://github.com/zhrexx/tts-model-main/)</font>
 
            
 [tts-model-creative](https://github.com/zhrexx/tts-model-creative/)
