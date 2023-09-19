@@ -1,7 +1,9 @@
 Install and Use:
 
 
-    Install a model here 3 sites with models:
-           random.ai
-           other.world
-           miler.ai
+    Install a model from my other repos:
+           tts-model-main
+           tts-model-creative
+           tts-model-buisness
+
+
