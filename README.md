@@ -11,7 +11,11 @@ After down load Git and Python:
 [PYTHON](https://www.python.org/downloads/release/python-3115/)
 
 [GIT-WINDOWS](https://git-scm.com/download/win)
+
+
 [GIT-LINUX](https://git-scm.com/download/linux)
+
+
 [GIT-MAC](https://git-scm.com/download/mac)
 
 
