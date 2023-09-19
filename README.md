@@ -6,6 +6,7 @@ Here is the Command:
         
         pip install pyttsx3
 
+<h2>GIT and Python</h2>
 After down load Git and Python:
 
 [PYTHON](https://www.python.org/downloads/release/python-3115/)
@@ -20,8 +21,12 @@ After down load Git and Python:
 
 
 
-print in GIT:     git clone https://github.com/zhrexx/pyTTS/
+print in GIT:     
 
-Open Explorer and paste the path: C:\Users\your_username\pyTTS
+    git clone https://github.com/zhrexx/pyTTS/
+
+Open Explorer and paste the path:
+        
+        C:\Users\your_username\pyTTS
 
 Then Open pyTTS.py with the cmd
