@@ -2,8 +2,9 @@
 
 <h2>Install pyttsx3</h2>
 
-    Here is the Command:
-         pip install pyttsx3
+Here is the Command:
+        
+        pip install pyttsx3
 
 After down load Git and Python:
 
