@@ -21,12 +21,14 @@ After down load Git and Python:
 
 
 
-print in GIT:     
+paste into GIT:     
 
     git clone https://github.com/zhrexx/pyTTS/
 
-Open Explorer and paste the path:
+Open CMD and paste the command(edit your_username to your username:
         
-        C:\Users\your_username\pyTTS
+        cd C:\Users\your_username\pyTTS
 
-Then Open pyTTS.py with the cmd
+Then comes the command:
+
+        python pyTTS.py
